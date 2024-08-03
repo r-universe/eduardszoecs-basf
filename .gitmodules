@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "rfieldclimate"]
+	path = rfieldclimate
+	url = https://github.com/cran/rfieldclimate
+[submodule "rzentra"]
+	path = rzentra
+	url = https://github.com/cran/rzentra
